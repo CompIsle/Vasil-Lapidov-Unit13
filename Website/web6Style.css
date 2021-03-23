@@ -1,0 +1,58 @@
+.Heading{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    text-align: center;
+    margin-left: 0%;
+    font-size: 60px;
+    position: absolute;
+   background-image: url(https://media.gowallpaper.co.uk/media/catalog/product/a/s/as_creation_diamonds_plain_texture_dark_grey_silver_glitter_wallpaper_-_37272-5.jpg) 
+   
+   
+   }
+   .flex{
+       display: flex;
+       
+   }
+   
+   .logo{
+       height: 100px;
+       z-index: 9;
+       position: absolute;
+       width: 100px;
+       background-color: gray;
+       background-image: url(https://media.gowallpaper.co.uk/media/catalog/product/a/s/as_creation_diamonds_plain_texture_dark_grey_silver_glitter_wallpaper_-_37272-5.jpg)
+   }
+
+
+.sale{
+    z-index: 9;
+    margin-left: 75%;
+}
+
+
+.phone1{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    
+}
+
+
+.pic{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    
+   
+}
+
+.a{
+    background-image: url(https://t4.ftcdn.net/jpg/00/64/76/65/360_F_64766580_X82LBtNKD8Xq4qY1habebBvOnqUHwQ4K.jpg)
+ }
+
+.on{
+    widows: 100px;
+    height: 100px;
+    z-index: 9;
+}
