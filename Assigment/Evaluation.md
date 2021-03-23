@@ -90,6 +90,10 @@ Updates have been disguised and approved by the team for a better styling and na
 <ul>
 <li>Both of the videos on the website are working well. there is slight issue with the size but that doesn't effect the way the video is played.</li>
 </ul>
+<h3>Carousel</h3>
+<ul>
+<li>The carousel has an issue, it doesn't work properly. The arrows are supposed to show you more content but they don't work.</li>
+</ul>
 
 <h3>Browser accessability
 <ul>
@@ -102,7 +106,7 @@ Updates have been disguised and approved by the team for a better styling and na
 </ul>
 <h4><b>Overall testing</b></h4>
 
-The website passed almost all the tests it performed. There are slight issues with responsibility which needs improvement. The test have been done on all new updates for the website.
+The website passed almost all the tests it performed. There are slight issues with responsibility which needs improvement. The carousel also need to be fixed in letter relese. The test have been done on all new updates for the website.
 
 <h2>Strengths and weaknesses</h2>
 
@@ -125,4 +129,5 @@ Simple design and easily navigational website. Could be improved in terms of pos
 <li>Armandas</li>
 <P>It would nice if the carousel would work. Contact us could be taking up entire page instead of a corner.
 <li>Viktor</li>
+it should be better if you have added a "back" button to some pages, the phone pages have to be more centered on the page.
 </ul>
