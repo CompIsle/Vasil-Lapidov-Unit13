@@ -129,5 +129,5 @@ Simple design and easily navigational website. Could be improved in terms of pos
 <li>Armandas</li>
 <P>It would nice if the carousel would work. Contact us could be taking up entire page instead of a corner.
 <li>Viktor</li>
-it should be better if you have added a "back" button to some pages, the phone pages have to be more centered on the page.
+it should be better if you have added a "back" button to some pages, the phone pages have to be more centered on the page
 </ul>
