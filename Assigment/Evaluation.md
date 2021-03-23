@@ -36,6 +36,8 @@
      The maintainers have met the requirement by going through all the links in the assets file.
  <li>Testing the website to make sure it functions well.</li>
      The maintainers have met the requirement by testing out the website whenever it gets changes and updates.
+ <li>Github repository</li>
+     The maintainers have met the requirement by creating a github repository.
 </ul>
 
 <h4><b> Overall requirements for maintainers.</b></h4>
@@ -118,4 +120,9 @@ The website passed almost all the tests it performed. There are slight issues wi
 Simple design and easily navigational website. Could be improved in terms of positioning and information.
 
 
-
+<h2>Feedback</h2>
+<ul>
+<li>Armandas</li>
+<P>It would nice if the carousel would work. Contact us could be taking up entire page instead of a corner.
+<li>Viktor</li>
+</ul>
