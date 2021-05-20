@@ -125,9 +125,57 @@ Simple design and easily navigational website. Could be improved in terms of pos
 
 
 <h2>Feedback</h2>
+
+<h3>Armandas</h3>
 <ul>
-<li>Armandas</li>
+<li>
 <P>It would nice if the carousel would work. Contact us could be taking up entire page instead of a corner.
-<li>Viktor</li>
-it should be better if you have added a "back" button to some pages, the phone pages have to be more centered on the page
+</li>
 </ul>
+<h3>Viktor</h3>
+<ul>
+<li>
+<p>it should be better if you have added a "back" button to some pages, the phone pages have to be more centered on the page
+</li>
+</ul>
+<h4><b>Overall feedback </b></h4>
+The website has some bugs that need fixing and components that could be added.
+<h2>Wireframes<h2>
+
+
+<h3>Main</h3>
+<ul>
+<li>The main</li>
+</ul>
+<h3>Alternitive</h3>
+<ul>
+<li>The alternetive</li>
+</ul>
+
+<h2>Meeting requirements</h2>
+   <h3>Visitor requirements</h3>
+<ul>
+<li>Visitor requirements are met by creating a easily navigatioable website. for the navigation we chose to make it as simple as posible. We made a navigational bar at the top of the website with all the pages linked in it.
+</li>
+</ul>
+
+<h3>Designer requirements</h3>
+<ul>
+<li>The designer requirements we met by creating 2 wireframes for the website, a main one and an alternitive one.</li>
+</ul>
+
+<h3>Owner</h3>
+<ul>
+<li>We met owner's requirements by choosing a product for the website. 
+We chose to sell phones because we wanted the website to sell technology.</li>
+</ul>
+
+
+<h3>Maintainers</h3>
+<ul>
+<li>The requirements for the Maintainers were met by creating a structured folder of the whole documentation and
+a file of all the assets used for my website (photos, links etc.)</li>
+</ul>
+
+<h4><b>Overall requirements meeting</b></h4>
+The team has met all the requirements needed for the job.
