@@ -146,20 +146,26 @@ The website has some bugs that need fixing and components that could be added.
 <h3>Main</h3>
 <ul>
 <li>The main</li>
+  The Design was chosen because it has an easy usable navigation and the products are presented better then the alternitive one.
+  We also had a liitle changes while developing the website.
 </ul>
 <h3>Alternitive</h3>
 <ul>
 <li>The alternetive</li>
+The Design was not chosen because it was not suitable for the purpose. The preoduct is not presented as well as in the main design. The navigation bar is not visible enough so it would be harder to navigate the website.
 </ul>
-
+<h3>Changes</h3>
+<ul>
+<li>We changed the Phone Page a little bit. insted of adding 2 buttuns we added 1 and linked the video of the phone to the image insted of a separated button. That way we made the website more interactive.</li>
+</ul>
 <h2>Meeting requirements</h2>
-   <h3>Visitor requirements</h3>
+   <h3>Visitor</h3>
 <ul>
 <li>Visitor requirements are met by creating a easily navigatioable website. for the navigation we chose to make it as simple as posible. We made a navigational bar at the top of the website with all the pages linked in it.
 </li>
 </ul>
 
-<h3>Designer requirements</h3>
+<h3>Designer</h3>
 <ul>
 <li>The designer requirements we met by creating 2 wireframes for the website, a main one and an alternitive one.</li>
 </ul>
@@ -174,7 +180,9 @@ We chose to sell phones because we wanted the website to sell technology.</li>
 <h3>Maintainers</h3>
 <ul>
 <li>The requirements for the Maintainers were met by creating a structured folder of the whole documentation and
-a file of all the assets used for my website (photos, links etc.)</li>
+a file of all the assets used for my website (photos, links etc.
+Creatin a github repo with all the filles sorted in it.
+</li>
 </ul>
 
 <h4><b>Overall requirements meeting</b></h4>
